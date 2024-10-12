@@ -1,0 +1,103 @@
+
+body{
+  background-color: #f4d04e;
+}
+
+body{
+  font-family: 'figtree';
+}
+
+#container{
+  border: 1.3px solid #111111;
+  background-color: white;
+  width: 384px;
+  margin: 105px auto 20px auto;
+  border-radius: 20px;
+  box-shadow: 8px 8px black;
+}
+
+#ilustrator{
+  background: url(./assets/images/illustration-article.svg);
+  width: 336px;
+  height: 200px;
+  margin: 24px;
+  border-radius: 10px;
+  margin-bottom: 0;
+}
+
+#img{
+  width: 129px;
+  height: 32px;
+  margin: 0 auto 24px 24px;
+  display: flex;
+  font-size: 14px;
+  font-weight: 900;
+  align-items: center;
+}
+
+#img img{
+  width: 32px;
+  height: 32px;
+  margin-right: 12px;
+}
+
+#dentro{
+  margin: 24px;
+}
+
+#Learning{
+  background-color: #f4d04e;
+  border-radius: 4px;
+  width: 82px;
+  height: 29px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  margin-bottom: 12px;
+}
+
+#Learning p{
+  color: #111111;
+  font-weight: 900;
+  font-size: 14px;
+  line-height: 150%;
+  margin: 0;
+}
+
+#html{
+  margin-bottom: 12px;
+}
+
+#html p{
+  color: #111111;
+  font-weight: 900;
+  font-size: 24px;
+  line-height: 150%;
+  margin: 0;
+}
+
+#These{
+  margin-bottom: 12px;
+}
+
+#These p{
+  color: #6b6b6b;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 150%;
+  width: 336px;
+  margin: 0;
+}
+
+#Published{
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 150%;
+  width: 143px;
+  height: 21px;
+  margin-bottom: 12px;
+}
+
+#Published p{
+  margin: 0;
+}
