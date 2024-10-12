@@ -7,11 +7,15 @@ body{
   font-family: 'figtree';
 }
 
+.attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
+
 #container{
   border: 1.3px solid #111111;
   background-color: white;
   width: 384px;
-  margin: 105px auto 90px auto;
+  margin: 105px auto;
+  margin-bottom: 75px;
   border-radius: 20px;
   box-shadow: 8px 8px black;
 }
