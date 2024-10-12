@@ -21,12 +21,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./.github/screenshot.jpg)
+![](./.github/print.jpg)
 
 ### Links
 
-- Solution URL: [My Codes](https://github.com/ReverseGamerG/qr-code-project-frontend-mentor)
-- Live Site URL: [My site](https://reversegamerg.github.io/qr-code-project-frontend-mentor/)
+- Solution URL: [My Codes](https://github.com/ReverseGamerG/project-02)
+- Live Site URL: [My site](https://reversegamerg.github.io/project-02/)
 
 ## My process
 
